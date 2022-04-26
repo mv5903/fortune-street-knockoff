@@ -142,7 +142,7 @@
       <root url="jar://$USER_HOME$/Downloads/lwjgl-release-3.3.1-custom/lwjgl-zstd-natives-windows.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/lwjgl-release-3.3.1-custom/lwjgl-zstd.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/lwjgl-release-3.3.1-custom/lwjgl.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/JSON-java-20220320/gradle/wrapper/gradle-wrapper.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-simple-1.1.1.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/Downloads/lwjgl-release-3.3.1-custom/lwjgl-assimp-javadoc.jar!/" />
