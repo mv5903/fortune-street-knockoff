@@ -3,17 +3,15 @@ Demonstrates the differences between C++ and Java. If what you're looking for is
 Matthew Vandenberg
 */
 
-#include <iostream>
+#include <iostream> //for printing, getting user input, and other io operations
 #include <cmath> //for math functions like log, sin, etc
 #include <fstream> //for working with files
 #include <string> //for advanced strings
 using namespace std;
 
-// Functions must be defined before they are used, or there's an alternative:
-// Uncomment functions you'd like to run, then additionally call them in main:
+// Functions must be defined before they are used, or there's an alternative (uncomment to run, and also call them wherever you'd like in the code):
 //int variables();
-//int userInput();
-void pointers();
+
 
 int main() {
 	// With the using namespace approach
